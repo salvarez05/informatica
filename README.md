@@ -3,6 +3,6 @@ Este proyecto busca crear una biblioteca de juegos la cual mostrara informacion 
 
 integrantes: Samuel Alvarez, Ignacio Morales
 
-Planeamos mostrar informacion tal como: Nombre,
+Planeamos mostrar informacion tal como: Nombre, desarrolladora, director
 
 http://bruselas.ceisufro.cl/sitios/imorales04/typo3/
